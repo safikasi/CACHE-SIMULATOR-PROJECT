@@ -37,15 +37,15 @@ memory hierarchy and cache performance.
 ## Configuration
 
 The simulator supports multiple cache configurations that can be selected dynamically at runtime.
----
+
 You can configure:
 
 Cache mapping type (Direct, Associative, N-Way Set Associative)
 
 Associativity level (n)
----
+
 This flexibility allows detailed testing and analysis of cache behavior.
----
+
 
 ## Project Insight
 
@@ -61,5 +61,4 @@ handle data using cache systems. It provides a clear, hands-on simulation of:
 ## Author
 
 Safwan Kasi
----
 BSCS - NUST Balochistan Campus
