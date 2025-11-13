@@ -40,9 +40,9 @@ The simulator supports multiple cache configurations that can be selected dynami
 
 You can configure:
 
-Cache mapping type (Direct, Associative, N-Way Set Associative)
+- Cache mapping type (Direct, Associative, N-Way Set Associative)
 
-Associativity level (n)
+- Associativity level (n)
 
 This flexibility allows detailed testing and analysis of cache behavior.
 
@@ -61,4 +61,5 @@ handle data using cache systems. It provides a clear, hands-on simulation of:
 ## Author
 
 Safwan Kasi
+
 BSCS - NUST Balochistan Campus
