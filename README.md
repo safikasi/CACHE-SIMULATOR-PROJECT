@@ -10,7 +10,7 @@ This cache simulator project allows you to simulate cache behavior using differe
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/IshanMehta115/Cache-Simulator.git`
+1. Clone the repository: `git clone https://github.com/safikasi/CACHE-SIMULATOR-PROJECT.git`
 
 2. Build and run the cache simulator program.
 
