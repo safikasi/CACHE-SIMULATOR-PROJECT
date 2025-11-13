@@ -20,10 +20,7 @@ memory hierarchy and cache performance.
 
 ## Usage
 
-<<<<<<< HEAD
-=======
 1. Clone the repository: `git clone https://github.com/safikasi/CACHE-SIMULATOR-PROJECT.git`
->>>>>>> af0fb43b9e4fe6e25badb353c418271e0a9ed94c
 
 2. Build and run the cache simulator program.
 
